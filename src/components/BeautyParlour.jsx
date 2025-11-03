@@ -194,7 +194,7 @@ const Booking = () => (
           <div className="text-xs text-gray-500">Walk-ins welcome depending on availability.</div>
           <div className="mt-auto">
             <div className="text-xs text-gray-500">Address</div>
-            <div className="font-medium">Opulence Beauty Parlour, MG Road, Your City</div>
+            <div className="font-medium">Riya Beauty Parlour, Madurai Rd, Virudhunagar</div>
           </div>
         </div>
       </div>
@@ -206,7 +206,7 @@ const Footer = () => (
   <footer className="bg-gray-900 text-white py-10">
     <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-3 gap-6">
       <div>
-        <div className="text-xl font-bold">Opulence</div>
+        <div className="text-xl font-bold">Riya Beauty Parlour</div>
         <div className="mt-2 text-gray-400">Luxury beauty treatments for a modern you.</div>
       </div>
       <div>
@@ -215,11 +215,11 @@ const Footer = () => (
       </div>
       <div>
         <div className="font-semibold">Contact</div>
-        <div className="text-gray-400 text-sm mt-2">hello@opulence.example</div>
+        <div className="text-gray-400 text-sm mt-2">hello@Riya.example</div>
         <div className="text-gray-400 text-sm">+91 90000 00000</div>
       </div>
     </div>
-    <div className="mt-8 text-center text-xs text-gray-500">© {new Date().getFullYear()} Opulence — All rights reserved.</div>
+    <div className="mt-8 text-center text-xs text-gray-500">© {new Date().getFullYear()} Riya Beauty Parlour — All rights reserved.</div>
   </footer>
 );
 
@@ -230,7 +230,7 @@ export default function BeautyParlour() {
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-4">
             <div className="w-10 h-10 rounded-2xl bg-rose-500 flex items-center justify-center text-white font-bold">O</div>
-            <div className="font-semibold">Opulence</div>
+            <div className="font-semibold">Riya</div>
           </div>
           <nav className="hidden md:flex items-center gap-6 text-sm text-gray-700">
             <a href="#services" className="hover:text-rose-500">Services</a>
