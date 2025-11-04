@@ -8,7 +8,7 @@ return (
 <section className="py-16">
 <div className="max-w-7xl mx-auto px-6">
 <div className="text-center">
-<h3 className="text-2xl font-semibold">Our Services</h3>
+<h3 className="text-7xl font-bold">Our Services</h3>
 <p className="mt-2 text-gray-600 max-w-2xl mx-auto">Curated treatments for every need — quick touchups to full-day pampering.</p>
 </div>
 

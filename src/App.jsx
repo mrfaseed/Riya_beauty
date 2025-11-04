@@ -6,6 +6,7 @@ import Footer from './components/Footer.jsx'
 
 import Home from './pages/Home'
 import ServicesPage from './pages/ServicesPage'
+import "./pages/ServicePage.css"
 import GalleryPage from './pages/GalleryPage'
 import TeamPage from './pages/TeamPage'
 import BookingPage from './pages/BookingPage'
