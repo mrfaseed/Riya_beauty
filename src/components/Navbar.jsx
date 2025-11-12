@@ -1,12 +1,18 @@
 import React from 'react'
 import { Link, NavLink } from 'react-router-dom'
-
+import dragon1 from "./../assets/photos/dragon1.jpg";
 
 export default function Navbar() {
 return (
 <div className="flex items-center justify-between">
 <div className="flex items-center gap-4">
-<div className="w-10 h-10 rounded-2xl bg-rose-500 flex items-center justify-center text-white font-bold">O</div>
+<div className="w-10 h-10 rounded-2xl overflow-hidden flex items-center justify-center">
+  <img
+   src={dragon1}
+    alt="avatar"
+    className="w-full h-full object-cover"
+  />
+</div>
 <div className="font-semibold">Riya</div>
 </div>
 
