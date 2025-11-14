@@ -27,7 +27,7 @@ export default function Testimonials() {
             Client Experiences
           </h2>
           <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto font-light">
-            Discover what our valued clients have to say about their journey with us
+            Discover what our valued clients have to say about their journey with us.
           </p>
           <div className="w-24 h-0.5 bg-gradient-to-r from-rose-300 to-amber-300 mx-auto mt-8"></div>
         </motion.div>
